@@ -6,3 +6,4 @@ Aguante el salame con queso 🌭🧀 https://www.youtube.com/watch?v=dQw4w9WgXcQ
 la linea de arriba ha sido actualizada
 nueva linea para pull
 probamos git fetch
+hicimos un cambio en Visual Studio Code
